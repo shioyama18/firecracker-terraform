@@ -1,2 +1,2 @@
-aws_region     = "ap-northeast-1"
-prefix         = "firecracker"
+aws_region = "ap-northeast-1"
+prefix     = "firecracker"
